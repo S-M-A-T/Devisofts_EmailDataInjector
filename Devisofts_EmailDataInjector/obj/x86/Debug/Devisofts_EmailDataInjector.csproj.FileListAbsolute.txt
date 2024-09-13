@@ -1,0 +1,5 @@
+c:\users\ahmed\documents\visual studio 2010\Projects\Devisofts_EmailDataInjector\Devisofts_EmailDataInjector\bin\Debug\Devisofts_EmailDataInjector.exe.config
+c:\users\ahmed\documents\visual studio 2010\Projects\Devisofts_EmailDataInjector\Devisofts_EmailDataInjector\bin\Debug\Devisofts_EmailDataInjector.exe
+c:\users\ahmed\documents\visual studio 2010\Projects\Devisofts_EmailDataInjector\Devisofts_EmailDataInjector\bin\Debug\Devisofts_EmailDataInjector.pdb
+c:\users\ahmed\documents\visual studio 2010\Projects\Devisofts_EmailDataInjector\Devisofts_EmailDataInjector\obj\x86\Debug\Devisofts_EmailDataInjector.exe
+c:\users\ahmed\documents\visual studio 2010\Projects\Devisofts_EmailDataInjector\Devisofts_EmailDataInjector\obj\x86\Debug\Devisofts_EmailDataInjector.pdb
